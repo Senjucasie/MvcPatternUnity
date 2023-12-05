@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mini MVCS/Samples/Example02_LoginMini/WithMini/Scenes/LoginWithMiniExample.unity
+    guid: 15ebac25defb3c345a72379453a8451a
   m_configObjects: {}

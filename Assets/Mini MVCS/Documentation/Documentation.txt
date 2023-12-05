@@ -1,0 +1,43 @@
+
+# UMVCS 
+
+MVCS is one of many solutions for organizing a Unity projec efficiently. It may or may not be the best solution for you.
+
+Documentation
+=============
+* Assets/Samuel Asher Rivello/UMVCS/Documentation/ReadMe.asset
+* Assets/Samuel Asher Rivello/UMVCS/Documentation/Documentation.txt
+
+Getting Started
+=============
+1. Open Unity Menu: File -> Build Settings
+2. Add "1. Loader" and "2. Main" to Build Settings
+3. Open Unity Menu: File -> Open Scene
+4. Open "1. Loader"
+5. Open Unity Menu: Edit -> Play
+6. Enjoy
+
+
+Created By
+=============
+
+- Samuel Asher Rivello 
+- Over 23 years XP with game development (2023)
+- Over 10 years XP with Unity (2023)
+
+Contact
+=============
+
+- Twitter - a href=httpstwitter.comsrivello@srivelloa
+- Resume & Portfolio - a href=httpwww.SamuelAsherRivello.comSamuelAsherRivello.coma
+- Source Code on Git - a href=httpsgithub.comSamuelAsherRivelloGithub.comSamuelAsherRivelloa
+- LinkedIn - a href=httpsLinkedin.cominSamuelAsherRivelloLinkedin.cominSamuelAsherRivelloa --- Say Hello! )
+
+License
+=============
+
+Provided as-is under MIT License  Copyright © 2023 Rivello Multimedia Consulting, LLC
+
+
+
+
